@@ -1,7 +1,0 @@
-a = input('Digite qualquer coisa:')
-print('Qual o tipo:', type(a))
-print('É um numero:', a.isnumeric())
-print('Tem espaço:', a.isspace())
-print('É uma palavra:', a.isalpha())
-print('Está maiusculo:', a.isupper())
-print('Está minusculo:', a.islower())
